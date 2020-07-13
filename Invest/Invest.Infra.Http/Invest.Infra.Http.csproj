@@ -4,4 +4,16 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Refit.HttpClientFactory" Version="5.1.67" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="HttpRequests\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Invest.Domain\Invest.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

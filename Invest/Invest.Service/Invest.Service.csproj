@@ -6,7 +6,10 @@
 
   <ItemGroup>
     <Folder Include="Validators\" />
-    <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Invest.Domain\Invest.Domain.csproj" />
   </ItemGroup>
 
 </Project>
