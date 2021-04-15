@@ -3,9 +3,10 @@
 Simple API Gateway in .NET Core to consolidate investments from different sources.
 
 Features:
-- JWT Token;
-- Refit (Http Factory);
-- Redis DIstributed Cache;
+
+- JWT Token
+- Refit (Http Factory)
+- Redis Distributed Cache
 
 ## Installation
 
