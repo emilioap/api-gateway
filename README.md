@@ -7,6 +7,7 @@ Features:
 - JWT Token
 - Refit (Http Factory)
 - Redis Distributed Cache
+- Dependency Injection
 
 ## Installation
 
